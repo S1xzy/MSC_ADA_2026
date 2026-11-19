@@ -1,11 +1,11 @@
 # MSc. SC677 701 Advanced Data Analysis
 
 ## Description
-**Project:**  วิธีการดาวน์โหลด และขั้นตอนการใช้ Virsual Environment (venv) ของ Python และ Github
-**Subject:** SC677 701 Advanced Data Analysis การวิเคราะห์ข้อมูลขั้นสูง
-**Semester** Second/2026, Department of Statistics, Faculty of Science, Khon Kaen University
-**Name:** Supawit Chaingam (Ps)
-**Student ID:** 695020003 - 1
+**Project:**  วิธีการดาวน์โหลด และขั้นตอนการใช้ Virsual Environment (venv) ของ Python และ Github<br>
+**Subject:** SC677 701 Advanced Data Analysis การวิเคราะห์ข้อมูลขั้นสูง<br>
+**Semester** Second/2026, Department of Statistics, Faculty of Science, Khon Kaen University<br>
+**Name:** Supawit Chaingam (Ps)<br>
+**Student ID:** 695020003 - 1<br>
 
 ---
 
