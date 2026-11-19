@@ -7,6 +7,11 @@
 **Name:** Supawit Chaingam (Ps)<br>
 **Student ID:** 695020003 - 1<br>
 
+**🧑‍💼 Course Lecturer** \
+**Asst. Prof. Prem Junsawang**
+> **Lecturer at KKU** \
+> Faculty of Science, Department of Statistics, Khon Kaen University 
+
 ---
 
 ## Installation
