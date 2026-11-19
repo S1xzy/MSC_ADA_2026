@@ -1,4 +1,10 @@
 # MSc. SC677 701 Advanced Data Analysis
+**🧑‍💼 Course Lecturer** \
+**Asst. Prof. Prem Junsawang**
+> **Lecturer at KKU** \
+> Faculty of Science, Department of Statistics, Khon Kaen University 
+
+---
 
 ## Description
 **Project:**  วิธีการดาวน์โหลด และขั้นตอนการใช้ Virsual Environment (venv) ของ Python และ Github<br>
@@ -6,11 +12,6 @@
 **Semester** Second/2026, Department of Statistics, Faculty of Science, Khon Kaen University<br>
 **Name:** Supawit Chaingam (Ps)<br>
 **Student ID:** 695020003 - 1<br>
-
-**🧑‍💼 Course Lecturer** \
-**Asst. Prof. Prem Junsawang**
-> **Lecturer at KKU** \
-> Faculty of Science, Department of Statistics, Khon Kaen University 
 
 ---
 
